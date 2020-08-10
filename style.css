@@ -1,3 +1,27 @@
+.name {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 45px;
+	padding: 10px;
+	padding-left: 25px;
+	color: #70635b;
+	letter-spacing: -5px;
+}
+
+.title {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #70635b;
+	margin-top: -43px;
+	margin-left: 310px;
+	text-transform: uppercase;
+}
+
+.header {
+	background-color: #e1c7b6;
+	height: 80px;
+	margin: auto;
+}
+
 .intro-box {
 	background-color: #e1b6bb;
 	margin: auto;
@@ -48,3 +72,25 @@
 	width: 70px;
 	margin-left: 10px;
 }
+
+.window {
+	overflow: scroll;
+	height: 780px;
+}
+
+.projects-box {
+	background-color: #e1b6bb;
+	margin: auto;
+	width: 500px;
+	height: 330px;
+	margin-top:250px;
+	border-radius: 10px;
+	margin-bottom: 250px;
+}
+
+
+
+
+
+
+
