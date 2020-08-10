@@ -2,8 +2,9 @@
 	background-color: #e1b6bb;
 	margin: auto;
 	width: 500px;
-	height: 300px;
+	height: 330px;
 	margin-top:250px;
+	border-radius: 10px;
 }
 
 .intro {
@@ -19,6 +20,31 @@
 	border: #e1b6bb 8px solid;
 	width: 150px;
 	height: 150px;
-	margin: -700px 0px 200px 175px;
+	margin: -700px 0px 200px 170px;
 
+}
+
+.horizontal-line {
+	width: 300px;
+	border-top: #5a484a 1px solid;
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	margin-top: -50px;
+}
+
+.resume-logo {
+	width: 70px;
+	margin-top: 10px;
+	margin-left: 130px;
+}
+
+.linkedin-logo {
+	width: 70px;
+	margin-left: 10px;
+}
+
+.github-logo {
+	width: 70px;
+	margin-left: 10px;
 }
